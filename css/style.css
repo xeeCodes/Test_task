@@ -1,0 +1,73 @@
+
+/* <!----------------home css begins here---> */
+body{
+
+    margin: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.home-section{
+
+   /* background: linear-gradient(90deg, #2196F3, #4A148C); */
+background-color: white;
+    height: 100vh;
+    margin-top: 10rem;
+    justify-content: center;
+    text-align: center;
+}
+ 
+
+.home-section h1{
+
+    color: black;
+    font-size: 4em;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.home-section p{
+    color:black;
+    font-size:1em;
+   overflow-wrap: break-word;
+    padding-left: 80px;
+    padding-right: 80px;
+    
+}
+
+ .blob-bg {
+    background-color: hsl(292, 87%, 47%); /* light purple background */
+    clip-path: polygon(60% 0%, 100% 20%, 90% 80%, 60% 100%, 0% 80%, 10% 20%);
+    padding: 2rem;
+    overflow: hidden;
+  }
+
+  .myImage {
+    width: 100%;
+    height: auto;
+  }
+
+
+.about-section{
+    /* background: linear-gradient(90deg, #2196F3, #4A148C); */
+background-color: white;
+   
+    height: 100vh;
+
+    margin-top: -3%;
+   
+    
+}
+
+.mylist{
+    color: #4A148C;
+    font-size: 15px;
+background-color: rgba(74, 20, 140, 0.3); /* 60% opacity */
+    border-radius: 200px;
+    padding: 10px;
+}
+
+.project-section
+{
+    background-color: white;
+   
+    height: 100vh;
+}
+    /* background: linear-gradient(90deg, #2196F3, #4A148C); */
